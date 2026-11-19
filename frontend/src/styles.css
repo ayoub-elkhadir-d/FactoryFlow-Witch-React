@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: #f4f7f8; color: #17313d; font-family: Arial, sans-serif; }
+button, input { font: inherit; }
+button { cursor: pointer; }
